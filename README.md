@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @its-abhipraya
 - 👀 I’m interested in making my own website someday that solves a specific problem.
-- 🌱 I’m currently learning Python from CS50P 
+- 🌱 I’m currently learning Python from CS50P
 - 📫 How to reach me: itsabhipraya12@gmail.com
 
 <!---
